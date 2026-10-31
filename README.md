@@ -18,11 +18,11 @@
 
 ###
 
-<h1 align="center">Hi, I am Leon.</h1>
+<h1 align="center">Hi, I am Raiden.</h1>
 
 ###
 
-<h3 align="center">A unconventional programmer.</h3>
+<h3 align="center">a programmer</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I mainly use Linux Mint Cinnamon 22.1, my second/server PC uses Windows 10.<br><br>- Coming soon.<br>- Second sentence!<br>- Third?</p>
+<p align="left">I mainly use Kubuntu, my second/server PC uses Windows 10.<br><br>- Coming soon.<br>- Second sentence!<br>- Third?</p>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Lua to Python is ordered in best to worst in terms of skills</p>
+<p align="left">Tools/languages is ordered from best to worst. Kinda 90% of time, I just program in Luaus</p>
 
 ###
 
